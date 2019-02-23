@@ -1,8 +1,5 @@
 -cp src
+-lib hxdefold
 -lua main.lua
 -dce full
 --macro include("warbattles")
--D luajit
--D lua-vanilla
--lib hxdefold
---macro defold.support.ScriptMacro.use(".")
