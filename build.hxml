@@ -1,5 +1,6 @@
 -cp src
 -lib hxdefold
 -lua main.lua
+-D analyzer-optimize
 -dce full
 --macro include("warbattles")
